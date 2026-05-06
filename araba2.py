@@ -55,8 +55,6 @@ def secimyap(secim):
         print("Hatalı Seçim Yaptınız:")
     return fiyat
 
-main()
 
-sude=fark_tarih('04.05.1972 16:15','04.05.2026 16:15')
-print(sude)
+
 
